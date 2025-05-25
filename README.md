@@ -43,68 +43,12 @@ A simple and well-structured **Spring Boot REST API** project that demonstrates 
 ## 📁 Project Structure
 
 src
-└── main
-    └── java
-        └── com.syitogluhalit.demo
-            ├── controller
-            │   ├── impl
-            │   │   ├── AddressControllerImpl.java
-            │   │   ├── CustomerControllerImpl.java
-            │   │   ├── EmployeeControllerImpl.java
-            │   │   ├── HomeControllerImpl.java
-            │   │   └── StudentControllerImpl.java
-            │   ├── IAddressController.java
-            │   ├── ICustomerController.java
-            │   ├── IEmployeeController.java
-            │   ├── IHomeController.java
-            │   └── IStudentController.java
-            │
-            ├── dto
-            │   ├── DtoAddress.java
-            │   ├── DtoCourse.java
-            │   ├── DtoCustomer.java
-            │   ├── DtoDepartment.java
-            │   ├── DtoEmployee.java
-            │   ├── DtoHome.java
-            │   ├── DtoRoom.java
-            │   ├── DtoStudent.java
-            │   └── DtoStudentIU.java
-            │
-            ├── entities
-            │   ├── Address.java
-            │   ├── Course.java
-            │   ├── Customer.java
-            │   ├── Department.java
-            │   ├── Employee.java
-            │   ├── Home.java
-            │   ├── Room.java
-            │   └── Student.java
-            │
-            ├── exception
-            │   ├── ApiError.java
-            │   └── GlobalExceptionHandler.java
-            │
-            ├── repository
-            │   ├── AddressRepository.java
-            │   ├── CustomerRepository.java
-            │   ├── EmployeeRepository.java
-            │   ├── HomeRepository.java
-            │   └── StudentRepository.java
-            │
-            ├── services
-            │   ├── impl
-            │   │   ├── AddressServiceImpl.java
-            │   │   ├── CustomerServiceImpl.java
-            │   │   ├── EmployeeServiceImpl.java
-            │   │   ├── HomeServiceImpl.java
-            │   │   └── StudentServiceImpl.java
-            │   ├── IAddressService.java
-            │   ├── ICustomerService.java
-            │   ├── IEmployeeService.java
-            │   ├── IHomeService.java
-            │   └── IStudentService.java
-            │
-            └── DemoApplication.java
+├── controller
+├── dto
+├── entities
+├── repository
+├── services
+└── exception
 
 
 
