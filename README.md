@@ -84,7 +84,6 @@ spring.jpa.hibernate.ddl-auto=update
 👨‍💻 Author
 Halit Onur Seyitoğlu
 📧 shalitonur@gmail.com
-🎓 Computer Engineering @ Adana Alparslan Türkeş Science and Technology University
 🌍 GitHub: seyitogluhalit
 
 🏷️ License
